@@ -1,7 +1,4 @@
-"""For a detailed guide on all the features of the Circuit Playground Express (cpx) library:
-https://adafru.it/cp-made-easy-on-cpx"""
-
-# This block is designed to be added to your Roomba vaccum and play different sounds when the device bumps into an obstical.
+# This is designed so you can place your ACPE on your Roomba vacuum and play different sounds when the device bumps into an obstacle.
 # You can use the A and B buttons to adjust the sensitivity. Load and reference different sounds as you see fit.
 
 import time
